@@ -63,6 +63,7 @@
 # Processamento de imagens [visão Prática].
 
 - [Como Analisar Imagens Usando PYTHON  e OPENCV, C&S Analytics](https://www.youtube.com/playlist?list=PLsyobOqUhkthjvmA_s7tTjb7V2EiwYYGC)
+- [OpenCV Course - Full Tutorial with Python] (https://www.youtube.com/watch?v=oXlwWbU8l2o)
 
 ## Processamento de Sinais
 
